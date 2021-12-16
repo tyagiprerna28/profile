@@ -1,0 +1,94 @@
+body{
+    margin :auto
+    link href="./index.html"rel="stylesheet"type="text/css"
+}
+#me{
+    height: 50px;
+    background-color:#3b3c44 ;
+    border: none;
+    width:100%;
+    background-image: url('images/profile.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+   border:1px solid rgba(142, 142, 219, 0.274) ;
+}
+#about{
+    height: 400px;
+    width: 100%;
+   background-color: #3b3c44;
+   background-image: url('images/profile.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: none;
+   border:1px solid rgba(142, 142, 219, 0.274) ;
+}
+#heading{
+    height: 50px;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142, 142, 219, 0.274) ;
+    width:100%;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: none;
+   
+}
+#skills{
+    height: 300px;
+    width: 100%;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142,142, 219, 0.274) ;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+}
+#personal{
+    height: 200px;
+    width: 100%;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142, 142, 219, 0.274) ;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+}
+#hobbies{
+    height: 400px;
+    width: 100%;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142, 142, 219, 0.274) ;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+}
+#description{
+    background-color:#3b3c44 ;
+    height: 200px;
+    width: 100%;
+    border:1px solid rgba(142, 142, 219, 0.274) ;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+}
+#map{
+    height: 400px;
+    width: 100%;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142, 142, 219, 0.274) ;
+    background-image: url('images/profile.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+ }        
+
+
+
+
+
+
+
+
