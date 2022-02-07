@@ -32,7 +32,21 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     margin: none;
-   
+    color: aliceblue !important;
+}
+
+.default {
+    background-color: #bebebe;
+    color: black !important;
+    text-decoration: none;
+    height:44px;
+    width:7%;
+    margin-left:3%;
+    display: inline-block;
+    margin-bottom: 5%;
+} 
+.default:hover {
+    background: #ddd;
 }
 #skills{
     height: 300px;
@@ -53,6 +67,22 @@ body{
     background-repeat: no-repeat;
    background-size: cover;
    margin:none;
+}
+#workdone{
+    height: 400px;
+    width:100%;
+    background-color:#3b3c44 ;
+    border:1px solid rgba(142, 142, 219, 0.274)!important ;
+    background-image: url('images/profile.jpg')!important;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin:none;
+
+}
+#workdone > video{
+    
+    margin-left:10%!important;
+    
 }
 #hobbies{
     height: 400px;
